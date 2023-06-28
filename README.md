@@ -1,23 +1,26 @@
-# Meat mimicry and consumer preferences
+# README
 
-## Files
+This repository contains the code and data for the research paper "Meat mimicry and consumer preference for products similar to meat" by Krystal Caldwell.
 
-### 1. mm-pilot-conjointly-raw-data.csv and mm-main-conjointly-raw-data.csv
+The paper is available at [https://osf.io/crvfk/](https://osf.io/crvfk/).
 
-Raw data exported from Coinjointly. These csv's are imported into mm-data-cleaning-to-share.py to clean into mm-all-data-cleaned-to-share.csv
+Reach out to Krystal at kdcald@gmail.com if you have any questions about the paper.
 
-### 2. mm-all-data-cleaned-to-share.csv
+**Citation:**
 
-Cleaned data that is used for analysis. Exported from mm-data-cleaning-to-share.py script. 
+Caldwell, K. (2023). Meat mimicry and consumer preference for products similar to meat. *Unpublished manuscript*. Available at: https://osf.io/nxrx3/. 
 
-### 3. mm-data-cleaning-to-share.py
+## Main Scripts
 
-Python script used to clean the raw data
+* `mm-data-cleaning-to-share.py` cleans raw data from main and pilot studies, combines them and saves it as a csv file.
+* `mm-conjont-analysis-to-share.R` contains conjoint analysis.
+* `mm-power-analysis-to-share.R` contains power analysis.
 
-### 4. mm-conjont-analysis-to-share.R
+## Data
 
-R script for conjoint analysis. Imports mm-all-data-cleaned-to-share.csv.
+* `mm-all-data-cleaned-to-share.csv` contains the cleaned data output by `mm-data-cleaning-to-share.py` that is used to produce the main results.
+* `mm-pilot-conjointly-raw-data.csv` contains the raw unprocessed data from the pilot.
+* `mm-main-conjointly-raw-data.csv` contains the raw unprocessed data from the main study.
 
-### 5. mm-power-analysis-to-share.R
 
-R script for power analysis. Used to determine sample size needed for 80% power.
+
