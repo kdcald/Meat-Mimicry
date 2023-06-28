@@ -2,13 +2,13 @@
 
 This repository contains the code and data for the research paper "Meat mimicry and consumer preference for products similar to meat" by Krystal Caldwell.
 
-The paper is available at [https://osf.io/crvfk/](https://osf.io/crvfk/).
+The paper is available at [https://osf.io/s8kjh](https://osf.io/s8kjh).
 
 Reach out to Krystal at kdcald@gmail.com if you have any questions about the paper.
 
 **Citation:**
 
-Caldwell, K. (2023). Meat mimicry and consumer preference for products similar to meat. *Unpublished manuscript*. Available at: https://osf.io/nxrx3/. 
+Caldwell, K. (2023). Meat mimicry and consumer preference for products similar to meat. *Unpublished manuscript*. Available at: https://osf.io/s8kjh. 
 
 ## Main Scripts
 
